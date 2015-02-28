@@ -1,0 +1,120 @@
+{
+	"FPS"                : 1,
+	"SOLID"              : 1,
+	"LIGHTING ENABLE"    : 1,
+	"FOG ENABLE"         : 0,
+	"SKY"                : 0,
+	"WORLD AXIS"         : 1,
+
+	"PICKING ENABLE"     : 0,
+	"BLOCK BOUNDING BOX" : 0,
+	"BLOCK NORMAL VECTOR": 0,
+	"PICKING TRIANGLE"   : 0,
+	"EVENT OBJECT"       : 1,
+	"RENDERING MODEL"    : 1,
+	"LAKE"               : 0,
+	"OBJECT BOUNDING BOX": 1,
+
+	"RENDERING QUALITY"  : "high",
+
+	"CULLING"   : { "enable": 1, "range": 9 },
+	"COLLISION" : { "enable": 0, "level": 255 },
+	"ALPHATEST" : { "enable": 1, "block range": 3200.0 },
+	"DIFFUSE"   : { "r": 64, "g": 128, "b": 128 },
+	"AMBIENT"   : { "r": 128, "g": 128, "b": 128 },
+
+	"HEIGHTING":
+	{
+		"range" : 3,
+		"height": 4.000,
+		"delta" : 1.000
+	},
+
+	"FOG":
+	{
+		"color": { "r": 164, "g": 255, "b": 255},
+		"begin"  :  600.0,
+		"range"  : 3000.0,
+		"power"  :  2.000,
+		"act"    :      0
+	},
+
+	"LIGHTING":
+	[
+		{
+			"diffuse"  : { "r": 0.35294, "g": 0.35294, "b": 0.00000, "e": 1.00000},
+			"specular" : { "r": 0.35294, "g": 0.11765, "b": 0.35294, "e": 1.00000},
+			"direction": { "x": -0.10000, "y": -0.10000, "z": 0.00000, "e": 1.00000}
+		},
+
+		{
+			"diffuse"  : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"specular" : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"direction": { "x": 0.00000, "y": 0.00000, "z": 0.00000, "e": 1.00000}
+		},
+
+		{
+			"diffuse"  : { "r": 0.31373, "g": 0.35294, "b": 0.35294, "e": 1.00000},
+			"specular" : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"direction": { "x": 0.01000, "y": 0.00000, "z": 0.00000, "e": 1.00000}
+		},
+
+		{
+			"diffuse"  : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"specular" : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"direction": { "x": 0.00000, "y": 0.00000, "z": 0.00000, "e": 1.00000}
+		},
+
+		{
+			"diffuse"  : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"specular" : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"direction": { "x": 0.70000, "y": -0.70000, "z": 0.00000, "e": 1.00000}
+		},
+
+		{
+			"diffuse"  : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"specular" : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"direction": { "x": 0.00000, "y": 0.00000, "z": 0.00000, "e": 1.00000}
+		},
+
+		{
+			"diffuse"  : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"specular" : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"direction": { "x": 0.00000, "y": 0.00000, "z": 0.00000, "e": 1.00000}
+		},
+
+		{
+			"diffuse"  : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"specular" : { "r": 0.00000, "g": 0.00000, "b": 0.00000, "e": 1.00000},
+			"direction": { "x": 0.00000, "y": 0.00000, "z": 0.00000, "e": 1.00000}
+		}
+
+	],
+
+	"CAMERA":
+	{
+		"type"  :      1,
+		"fov"   :   45.0,
+		"near"  :    1.0,
+		"far"   : 48000.0,
+		"up_x"  : -0.012,
+		"up_y"  : -0.028,
+		"up_z"  :  0.952,
+		"eye_x" : 3916.0,
+		"eye_y" : -840.4,
+		"eye_z" : 1762.5,
+		"look_x": 3943.2,
+		"look_y": -579.5,
+		"look_z": 1679.9
+	},
+
+	"SKY DOME"     : "model/etc/ase_skydome.gpmf",
+	"EVENT TABLE"  : "data/dft_evn.xml",
+	"MODEL TABLE"  : "data/dft_mdl.xml",
+	"ROADER TABLE" : "data/dft_rdr.xml",
+	"TEXTURE TABLE": "data/dft_tex.xml",
+	"LAYER TABLE"  : "data/dft_layer.xml",
+
+	"MAP FILE"     : "df_portpolio.bod"
+}
+

@@ -1,0 +1,11 @@
+
+1. camera
+	- same to unity: m(wheel)-button, r-button
+	
+2. object editing
+	1. select the block radio button in left window
+	2. object move, scaling, rotation, delete : use the repaire(hammer) button and drag the objects
+	3. delete - delete key: must be selected block and repaire button
+	4. undo : ctrl + z key
+
+3. etc...

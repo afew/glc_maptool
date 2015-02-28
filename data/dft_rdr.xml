@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<root ver="1.0.2">
+	<mst id="0" name="DefaultRoader">
+		<sub name="Lane">
+			<rec name="lane0" />
+			<rec name="lane1" />
+		</sub>
+
+		<sub name="Bush" >
+			<rec name="roader0" />
+			<rec name="roader1" />
+			<rec name="roader2" />
+		</sub>
+	</mst>
+
+</root>

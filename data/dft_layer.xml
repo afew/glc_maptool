@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root ver="1.0.2">
+	<mst id="0" name="field">
+		<sub name="spt0">
+			<rec name="lyr0" uv="12.0" d="base.tga" />
+			<rec name="lyr1" uv="12.0" d="grass1.tga" />
+			<rec name="lyr2" uv="12.0" d="grass2.tga" />
+			<rec name="lyr3" uv="12.0" d="grass3.tga" />
+			<rec name="lyr4" uv="12.0" d="grass4.tga" />
+		</sub>
+	</mst>
+</root>

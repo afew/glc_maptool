@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<root ver="1.0.2">
+	<mst id="0" name="ItemBox">
+		<sub name="Rock" path="model/3d/">
+			<rec name="rock01.lst" />
+			<rec name="rock02.lst" />
+		</sub>
+
+		<sub name="Tree" path="model/3d/">
+			<rec name="tree01.lst" />
+			<rec name="tree02.lst" />
+			<rec name="tree03.lst" />
+		</sub>
+	</mst>
+</root>
+

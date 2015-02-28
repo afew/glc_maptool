@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<root ver="1.0.2">
+	<mst id="0" name="Texture Group">
+
+		<sub name="splatting" path="map/">
+			<rec name="base.tga" />
+
+			<rec name="block1.tga" />
+			<rec name="block2.tga" />
+			<rec name="block3.tga" />
+			<rec name="block4.tga" />
+			<rec name="block5.tga" />
+			<rec name="block6.tga" />
+			<rec name="block7.tga" />
+
+			<rec name="grass1.tga" />
+			<rec name="grass2.tga" />
+			<rec name="grass3.tga" />
+			<rec name="grass4.tga" />
+			<rec name="grass5.tga" />
+			<rec name="grass6.tga" />
+			<rec name="grass7.tga" />
+
+			<rec name="maze1.tga" />
+			<rec name="maze2.tga" />
+			<rec name="maze3.tga" />
+			<rec name="maze4.tga" />
+
+			<rec name="road1.tga" />
+			<rec name="road2.tga" />
+			<rec name="road3.tga" />
+			<rec name="road4.tga" />
+
+			<rec name="rock1.tga" />
+			<rec name="rock2.tga" />
+			<rec name="rock3.tga" />
+			<rec name="rock4.tga" />
+			<rec name="rock5.tga" />
+			<rec name="rock6.tga" />
+			<rec name="rock7.tga" />
+
+
+			<rec name="sand1.tga" />
+			<rec name="sand2.tga" />
+			<rec name="sand3.tga" />
+			<rec name="sand4.tga" />
+
+			<rec name="tile1.tga" />
+			<rec name="tile2.tga" />
+			<rec name="tile3.tga" />
+			<rec name="tile4.tga" />
+		</sub>
+
+		<sub name="water" path="map/">
+			<rec name="water1.tga" />
+			<rec name="water2.tga" />
+		</sub>
+
+		<sub name="edge" path="map/">
+			<rec name="edge_grass.tga" />
+		</sub>
+
+	</mst>
+
+</root>
+

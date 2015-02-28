@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<root ver="1.0.2">
+	<mst id="0" name="outdoor">
+		<sub name="Tree" path="model/tree/">
+			<rec name="glc_brushtrap01.gpmf" />
+			<rec name="glc_brushtrap02.gpmf" />
+			<rec name="glc_brushtrap03.gpmf" />
+			<rec name="glc_brushtrap04.gpmf" />
+			<rec name="glc_brushtrap05.gpmf" />
+			<rec name="glc_brushtrap06.gpmf" />
+			<rec name="glc_brushtrap07.gpmf" />
+			<rec name="glc_bt_grass01.gpmf" />
+			<rec name="glc_bt_grass02.gpmf" />
+			<rec name="glc_bt_grass03.gpmf" />
+			<rec name="glc_nftree01.gpmf" />
+			<rec name="glc_nftree02.gpmf" />
+			<rec name="glc_nftree03.gpmf" />
+			<rec name="glc_nftree04.gpmf" />
+			<rec name="glc_plant03.gpmf" />
+			<rec name="glc_plant04.gpmf" />
+			<rec name="glc_plant05.gpmf" />
+			<rec name="glc_plant06.gpmf" />
+			<rec name="glc_plantb01.gpmf" />
+			<rec name="glc_plantb02.gpmf" />
+			<rec name="glc_plantb03.gpmf" />
+			<rec name="glc_plantb04.gpmf" />
+			<rec name="glc_treew01.gpmf" />
+			<rec name="glc_treew02.gpmf" />
+		</sub>
+
+		<sub name="Rock" path="model/rock/">
+			<rec name="glc_rock01.gpmf" />
+			<rec name="glc_rock02.gpmf" />
+			<rec name="glc_rock03.gpmf" />
+			<rec name="glc_rock04.gpmf" />
+			<rec name="glc_nfrock01.gpmf" />
+			<rec name="glc_nfrock02.gpmf" />
+		</sub>
+
+		<sub name="Building" path="model/building/">
+			<rec name="glc_entrance.gpmf" />
+			<rec name="glc_potal01.gpmf" />
+			<rec name="glc_potal02.gpmf" />
+		</sub>
+	</mst>
+</root>
+
+
